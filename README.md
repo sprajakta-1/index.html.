@@ -13,7 +13,7 @@
 </head>
 <body>
     <h1>Welcome to My Portfolio</h1>
-    <p>Hello! I'm [Your Name], a Data Analyst specializing in Power BI, SQL, and Python.</p>
+    <p>Hello! I'm [Prajakta Shyamkuwar], a Data Analyst specializing in Power BI, SQL, and Python.</p>
     <h2>Projects</h2>
     <ul>
         <li><a href="nektar-analysis.html">Nektar Analysis Project</a></li>
